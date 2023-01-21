@@ -1,0 +1,15 @@
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\bin\Debug\net6.0\ProjectThree.exe
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\bin\Debug\net6.0\ProjectThree.deps.json
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\bin\Debug\net6.0\ProjectThree.runtimeconfig.json
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\bin\Debug\net6.0\ProjectThree.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\bin\Debug\net6.0\ProjectThree.pdb
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.AssemblyInfoInputs.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.AssemblyInfo.cs
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\refint\ProjectThree.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.pdb
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ProjectThree.genruntimeconfig.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectThree\obj\Debug\net6.0\ref\ProjectThree.dll
