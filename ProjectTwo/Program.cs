@@ -12,7 +12,6 @@ namespace Projetos
       int p1 = 0;
       int p2 = 0;
       int p3 = 0;
-      int qtd = 0;
       double soma = 0;
       double resultado = 0;
 

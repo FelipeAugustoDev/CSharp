@@ -1,0 +1,15 @@
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\bin\Debug\net6.0\ProjectFour.exe
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\bin\Debug\net6.0\ProjectFour.deps.json
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\bin\Debug\net6.0\ProjectFour.runtimeconfig.json
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\bin\Debug\net6.0\ProjectFour.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\bin\Debug\net6.0\ProjectFour.pdb
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.csproj.AssemblyReference.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.AssemblyInfoInputs.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.AssemblyInfo.cs
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\refint\ProjectFour.dll
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.pdb
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ProjectFour.genruntimeconfig.cache
+C:\Users\Felipe Augusto\OneDrive - SENAC - SP\Área de Trabalho\dEV\CSharp\ProjectFour\obj\Debug\net6.0\ref\ProjectFour.dll
