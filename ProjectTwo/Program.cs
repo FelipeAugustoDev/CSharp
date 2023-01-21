@@ -5,7 +5,7 @@ namespace Projetos
   {
     static void Main(string[] args)
     {
-      //SÓ CRIAR UM READLINE PARA RECEBER VALOR DO VETOR
+      //SÓ CRIAR UM READLINE PARA RECEBER VALOR DO VETORKK 
       string[] nomeProduto = { "p1", "p2", "p3", "p1" };
       double[] precoProduto = { 10, 32, 15, 10 };
 
